@@ -4,3 +4,8 @@
   - Run Nice.py, and you will be prompted to speak
   - Ask "How many times have I said 'nice'?" to check the value of the counter
   - Say "stop stop stop" to stop the counter
+- Dependencies
+  - gTTS
+  - playsound
+  - PyAudio
+  - SpeechRecognition
